@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/bin/node /home/gustavo/.yarn/bin/yarn.js add uuid
+  /usr/bin/node /home/gustavo/.yarn/bin/yarn.js add socket.io
 
 PATH: 
   /home/gustavo/.yarn/bin:/home/gustavo/.config/yarn/global/node_modules/.bin:/home/gustavo/.yarn/bin:/home/gustavo/.config/yarn/global/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
@@ -30,7 +30,8 @@ npm manifest:
       "express": "^4.17.1",
       "reflect-metadata": "^0.1.13",
       "sqlite3": "^5.0.2",
-      "typeorm": "^0.2.32"
+      "typeorm": "^0.2.32",
+      "uuid": "^8.3.2"
     },
     "devDependencies": {
       "@types/express": "^4.17.11",
